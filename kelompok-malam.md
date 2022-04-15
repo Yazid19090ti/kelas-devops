@@ -15,12 +15,12 @@
 
 | **No.** | **NIM**   | **Nama Lengkap**    | **Email** | **Akun Github** | **Keterangan** |
 |---------|-----------|---------------------|-----------|-----------------|----------------|
-| 1.      | 110220206 | Hari Maulana        |           |                 |                |
-| 2.      | 110219090 | Yazidul Yasar       |yazi19090ti@student.nurulfikri.ac.id           |Yazid19090ti                 |                |
-| 3.      | 110219088 | Alfin Adi Surya     |alfinadisurya24@gmail.com           |alfinadisurya24                 |                |
-| 4.      | 110220247 | Habibi              |           |                 |                |
-| 5.      | 110219134 | Agung Priyo Sembodo |agun19134ti@student.nurulfikri.ac.id           |priyo00                 |                |
-| 6.      | 110219133 | Iqbal Assegaf       |           |                 |                |
+| 1.      | 110220206 | Hari Maulana        |Hari20206ti@student.nurulfikri.ac.id           | Harimaulana12345                | Office (Plan)               |
+| 2.      | 110219090 | Yazidul Yasar       |yazi19090ti@student.nurulfikri.ac.id           |Yazid19090ti                 |   Git (Build)             |
+| 3.      | 110219088 | Alfin Adi Surya     |alfinadisurya24@gmail.com           |alfinadisurya24                 | Gitlab (CI)               |
+| 4.      | 110220247 | Habibi              |habi20247ti@student.nurulfikri.ac.id           |habibi247                 | Docker (CD               |
+| 5.      | 110219134 | Agung Priyo Sembodo |agun19134ti@student.nurulfikri.ac.id           |priyo00                 |  Jira (Operate)              |
+| 6.      | 110219133 | Iqbal Assegaf       |           |                 | Trello (CF)               |
 | 7.      | 110220174 | Wahid Wahyudin      |           |                 |                |
 
 
